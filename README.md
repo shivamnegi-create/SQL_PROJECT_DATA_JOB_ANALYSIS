@@ -6,7 +6,7 @@ SQL queries? Check them out here : [project_sql folder](/project_sql)
 # Background
 Driven by the quest to navigate the data analyst job market in India more effectively, this project was born from a desire to pin-point top-paid and in demand skills, streamlining others work to find the optimal jobs.
 
-The data is taken from a SQL course on Youtube [Luke Barousee YT]()The [dataset](https://drive.google.com/drive/folders/1moeWYoUtUklJO6NJdWo9OV8zWjRn0rjN) used in this project consists of real-world job postings data collected through a [job data platform](https://datanerd.tech/) by Luke Barousse. It includes job titles, salary estimates, locations, and associated skills, allowing for practical analysis of demand and salary trends in the data analyst job market in India.
+The [dataset](https://drive.google.com/drive/folders/1moeWYoUtUklJO6NJdWo9OV8zWjRn0rjN) used in this project was provided in a GDrive link by Luke Barousse. It consists of real-world job postings data collected through his [job data platform](https://datanerd.tech/). It includes job titles, salary estimates, locations, and associated skills, allowing for practical analysis of demand and salary trends in the data analyst job market in India.
 ## The questions I wanted to answer through my SQL queries were -
 **(Note)** - This analysis is limited to job postings in India.
 1. What are the top 10- highest paying jobs for my role?
