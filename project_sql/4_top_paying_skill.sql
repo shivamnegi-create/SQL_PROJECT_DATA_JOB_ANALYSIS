@@ -2,7 +2,7 @@
 
 SELECT 
         skills.skills AS skill,
-        avg(salary_year_avg) AS average_salary
+        avg(DISTINCT salary_year_avg) AS average_salary
 FROM
         job_postings_fact
 

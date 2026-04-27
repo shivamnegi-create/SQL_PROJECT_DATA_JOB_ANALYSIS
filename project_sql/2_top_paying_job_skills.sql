@@ -30,4 +30,4 @@
         skills_job_dim AS skills_to_jobs ON skills_to_jobs.job_id = top_paying_jobs.job_id
    INNER JOIN 
         skills_dim AS skills ON skills.skill_id = skills_to_jobs.skill_id
-   ORDER BY salary_year_avg DESC
+  
